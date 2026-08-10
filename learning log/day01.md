@@ -1,4 +1,4 @@
-# AI Journey Day01
+AI Journey Day01
 
 今天完成：
 
