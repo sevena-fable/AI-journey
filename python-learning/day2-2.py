@@ -8,6 +8,8 @@ def analyze_drug(name,weight,targets):
     else :
         print("分析结果：大分子或需要进一步分析")
 
+    print("药物靶点是:")
+
     for target in targets:
         print("-",target)
 
