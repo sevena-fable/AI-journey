@@ -1,0 +1,5 @@
+name,weight,logp,target
+Aspirin,180.16,1.2,COX
+Ibuprofen,206.28,3.5,COX
+BadDrug,unknown,4.1,EGFR
+Paracetamol,151.16,0.5,COX
